@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\activity6class GradeConverter\bin\Debug\activity6class GradeConverter.exe.config
+C:\Users\HP\source\repos\activity6class GradeConverter\bin\Debug\activity6class GradeConverter.exe
+C:\Users\HP\source\repos\activity6class GradeConverter\bin\Debug\activity6class GradeConverter.pdb
+C:\Users\HP\source\repos\activity6class GradeConverter\obj\Debug\activity6class GradeConverter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\activity6class GradeConverter\obj\Debug\activity6class GradeConverter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\activity6class GradeConverter\obj\Debug\activity6class GradeConverter.exe
+C:\Users\HP\source\repos\activity6class GradeConverter\obj\Debug\activity6class GradeConverter.pdb
